@@ -57,3 +57,5 @@ Within this project there are two files containing tests to be carried out, test
 ## Details 
 
 Author - Bethany Whiting
+
+Github link - https://github.com/Beth1612/Covid-Dashboard
