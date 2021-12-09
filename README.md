@@ -7,6 +7,7 @@
 - Getting Started Tutorial
 - Developer Documentation
 - Details
+- Testing
 
 ## Introduction
 
@@ -48,6 +49,10 @@ The code using a main module which need to be run for the server to become activ
 needed. The main module also calls on other modules, covid_data_handler.py which using the covid API to obtain data that is presented on the website, covid_news_handling.py that uses the news API to get 
 articles relating to the terms given, in this case it is relating to covid and coronavirus and time_interval.py, this module converts the time that was given by the user into seconds and then calculates 
 the interval from the time the program is running to the time the user has given. 
+
+## Testing
+
+Within this project there are two files containing tests to be carried out, test_covid_data_handler.py and Test_news_data_handling.py. To test using these files, run each file if nothing is outputting then the test passed, if an error message occurs then the test has failed. 
 
 ## Details 
 
