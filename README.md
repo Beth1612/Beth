@@ -1,2 +1,2 @@
-# Beth
-A Covid dashboard
+# Covid Dashboard
+
